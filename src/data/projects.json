@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Green Delight",
+    "imageSrc": "projects/organic.png",
+    "description": "A full-stack market place application using MERNstack.",
+    "skills": [
+      "React",
+      "Express",
+      "Node"
+    ],
+    "demo": "https://greendelight.vercel.app/",
+    "source": "https://github.com/kshitijgithb/Green-Delight"
+  },
+  {
+    "title": "Memories",
+    "imageSrc": "projects/memories1.jpg",
+    "description": "operations for managing posts and interesting events pf a person.",
+    "skills": [
+      "React",
+      "Express",
+      "Node"
+    ],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/kshitijgithb/Memories"
+  },
+  {
+    "title": "News Wave",
+    "imageSrc": "projects/news.png",
+    "description": "A news app to display current global news and events, informs users about the latest events",
+    "skills": [
+      "React",
+      "Express",
+      "Node"
+    ],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/kshitijgithb/NewsWave"
+  }
+]

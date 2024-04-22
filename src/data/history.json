@@ -1,0 +1,37 @@
+[
+   {
+    "role": "Hackathons",
+    "organisation": "",
+    "startDate": "",
+    "endDate": "",
+    "experiences": [
+      "Regionalist in GfgXGoogle Hackathon",
+      "Semi-Finalist FlipKart Grid Software Track"
+    ],
+    "imageSrc": "history/hackathon.png"
+  },
+  {
+    "role": "Problem Solving",
+    "organisation": "",
+    "startDate": "",
+    "endDate": "",
+    "experiences": [
+      "Ranked 3 in IIT Indore’s Programming Club,CodeGolf 7.0 for Euristica,Fluxus2024",
+      "Ranked 10 in Code Rush organised by AlgoUniversity."
+    ],
+    "imageSrc": "history/problem.png"
+  },
+  {
+    "role": "Codechef & Codeforces",
+    "organisation": "",
+    "startDate": "",
+    "endDate": "",
+    "experiences": [
+      "Rank 124 in Starters 68 ",
+      " Rank 773 in Codeforces Round 928 ",
+      "Pupil on Codeforces"
+    ],
+    "imageSrc": "history/codechef.png"
+  }
+  
+]
