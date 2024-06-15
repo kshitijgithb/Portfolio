@@ -1,7 +1,7 @@
 [
   {
     "title": "Green Delight",
-    "imageSrc": "projects/organic.png",
+    "imageSrc": "projects/GreenDelight.jpg",
     "description": "A full-stack market place application using MERNstack.",
     "skills": [
       "React",
@@ -12,9 +12,9 @@
     "source": "https://github.com/kshitijgithb/Green-Delight"
   },
   {
-    "title": "Memories",
-    "imageSrc": "projects/memories1.jpg",
-    "description": "operations for managing posts and interesting events pf a person.",
+    "title": "TechInsight",
+    "imageSrc": "projects/TechInsight.png",
+    "description": "A full-stack web application to get insights into the world of tech.",
     "skills": [
       "React",
       "Express",
